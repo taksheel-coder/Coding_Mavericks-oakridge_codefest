@@ -2,7 +2,7 @@ import speech_recognition as sr
 from groq import Groq
 import json
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 recognizer = sr.Recognizer()
 
