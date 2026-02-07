@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import ttk
 
 def detectPerson():
-    None #taksheel will make
+    None #Software COde will be here.
 
 def close():
     window.destroy()
