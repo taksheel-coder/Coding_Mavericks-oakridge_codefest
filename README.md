@@ -1,2 +1,3 @@
-# Coding_Mavericks-oakridge_codefest
-Dementia
+# Coding_Mavericks-oakridge_codefest Ethical and Privacy
+
+In order to ensure transparency and legal data collection, our AR glasses have an indicator light that notifies the dementia patient’s conversation partner that a recording may take place, in compliance with GDPR Article 6(1)(a) and (f) and Articles 6 and 7 of the Digital Personal Data Protection Act, 2023 (DPDP Act). The person is also asked for consent before any recording takes place, as mandated by GDPR Article 6(1)(a) and Article 9(2)(a), if consent is refused, no data is collected. Once consent is obtained, only facial data and an unspecified summary of the conversation is stored strictly for memory support purposes. To comply with privacy concerns under GDPR Article 9(2)(h) and the DPDP Act, all data is secured by a password protected system that ensures only the user has access to the data, with sensitive information on purposefully avoided in accordance with the principle of data minimization.
